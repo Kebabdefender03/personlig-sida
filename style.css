@@ -1,0 +1,51 @@
+body{
+
+    margin: 16px;
+    padding: 20px;
+    background-color: grey;
+}
+
+header {
+    font-family: "Times New Roman", 'Times New Roman', Times, serif;
+    padding: 20px;
+    background-color: grey;
+}
+
+h3 {
+    color: white;
+}
+
+#kebabrecept,h2{
+
+    text-align: center;
+}
+
+h4 {
+    margin: 50px;
+}
+
+.important-p {
+    font-size: 1.5em;
+    padding: 4px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.ingrediens{
+    font-size: 1em;
+    
+}
+img{
+    margin: 50px 300px;
+}
+.title{
+    color: white;
+}
+
+.content-box {
+    width: 50%;
+    margin: auto;
+    background-color:red;
+    text-align: center;
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
