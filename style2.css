@@ -1,22 +1,21 @@
-
 @keyframes something {
     0% {
         background-color: blue;
-       /* transform: rotate(0deg);  
-      transform: scale(1); */
+        transform: rotate(0deg);  
+      transform: scale(1); 
     }
     50% {
         background-color: red;
         rotate: 100px;
-       /* transform: rotate(180deg); 
-        transform: scale(0.5); */
+        transform: rotate(180deg); 
+        transform: scale(0.5); 
 
     }
     100% {
         background-color: green;
         scale: 50%;
-       /*  transform: rotate(360deg); 
-        transform: scale(1); */
+        transform: rotate(360deg); 
+        transform: scale(1); 
     }
     
 }
@@ -127,8 +126,8 @@ img{
 }
 @media(min-width:980px){
     .two {
-        width:25%;
-        height:25%;
+        width:50%;
+        height:50%;
     }
 }
 @media(max-width:700px){
